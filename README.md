@@ -20,6 +20,6 @@ Deep learning project for image classification.
 - Use CNN models to classify image data
 
 # Repo Outline
-	1) Jupyter Notebook: `.ipynb'
+	1) Jupyter Notebook: `Module4_ImageClassificationProject/SRajpara_Module4_ImageClassificationProject.ipynb'
 	2) Image Directory: `Module4_ImageClassificationProject/chest_xray/` 
 	3) Non-Technical Presentation: `Module4_ImageClassificationProject/SRajpara_Mod4_Presentation.pdf`
