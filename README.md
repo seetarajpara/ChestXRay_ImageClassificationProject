@@ -22,4 +22,4 @@ Deep learning project for image classification.
 # Repo Outline
 	1) Jupyter Notebook: `.ipynb'
 	2) Image Directory: `Module4_ImageClassificationProject/chest_xray/` 
-	3) Non-Technical Presentation: `SRajpara_Mod4_Presentation.pdf`
+	3) Non-Technical Presentation: `Module4_ImageClassificationProject/SRajpara_Mod4_Presentation.pdf`
